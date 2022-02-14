@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my personal site, it is full of mess!
 
-You can use the [editor on GitHub](https://github.com/santhods/bazdoesweb/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Baramee, or Baz for short. I am a developer (professionally in a junior level) but have been coding since the age of 15. My passsion in computing and software development is all over the place - depending on what's interesting...
+
+Web, Desktop, Linux Kernel, Mobile, Cloud, WordPress. Currently settling down on a low-code platform [Microsoft Power Platform :)].
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
