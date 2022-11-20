@@ -1,10 +1,17 @@
 # Baramee's Personal Site
 
 ## Hello, Welcome to my personal site, it is full of mess!
-My name is Baramee, or Baz for short. I am a developer (professionally in a junior level) but have been coding since the age of 15. My passsion in computing and software development is all over the place - depending on what's interesting...
+My name is Baramee.
+I do a lot of things, mainly with an interest with technology: Web, Desktop, Linux Kernel, Mobile, Cloud, WordPress. Currently settling in a low-code platform.
 
-Web, Desktop, Linux Kernel, Mobile, Cloud, WordPress. Currently settling down on a low-code platform [Microsoft Power Platform :)].
+### I do also have other hobbies:
+- Photography
+- Novel writing
+- Music (practising my keyboard instrument)
 
 # News
+### Sunday 20 November 2022
+ถ้าคุณอ่านข้อความนี้ได้ ขอให้คุณรู้ไว้ว่า คุณเป็นเพื่อนเราแล้ว ยินดีที่ได้รู้จักเธอนะ
+
 ### Saturday 19 February 2022
 I will continue writing my novel today...
