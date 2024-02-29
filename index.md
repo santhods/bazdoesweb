@@ -10,6 +10,10 @@ I do a lot of things, mainly with an interest with technology: Web, Desktop, Lin
 - Music (practising my keyboard instrument)
 
 # News
+
+### Thursday 29 February 2024
+Preparing for a short holiday <3
+
 ### Sunday 28 January 2024
 It's been a while...but I'm still here. Happy 2024, and nice to meet you :)
 
