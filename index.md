@@ -11,6 +11,9 @@ I do a lot of things, mainly with an interest with technology: Web, Desktop, Lin
 
 # News
 
+### Sunday 27 October 2024
+Reaching the autumn time, moved over the site to the new domain, feeling more like myself again :P
+
 ### Thursday 29 February 2024
 Preparing for a short holiday <3
 
